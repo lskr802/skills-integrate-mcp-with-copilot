@@ -1,0 +1,14 @@
+{
+  "teachers": [
+    {
+      "username": "teacher",
+      "salt": "477bdab68863b28cf1dd04ea8b43d42a",
+      "password_hash": "d5111bcdd105c12056caa130757f0fe3e92acfa224a9acd40cdfd12750632066"
+    },
+    {
+      "username": "admin",
+      "salt": "6edbded71417b142ac88f2ae1b7ebe34",
+      "password_hash": "a15beb8bf1a1208ba6917b9e681f7a6bea2783662dba5de15f17549a89dc90c6"
+    }
+  ]
+}
